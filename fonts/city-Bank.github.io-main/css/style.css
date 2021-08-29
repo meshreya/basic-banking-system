@@ -1,0 +1,100 @@
+@import url("https://fonts.googleapis.com/css2?family=Castoro&display=swap");
+
+.row-header {
+  margin: 0px auto;
+  padding: 0px auto;
+}
+.row-content {
+  margin: 0px auto;
+  padding: 50px 0px 50px 0px;
+  border-bottom: 1px ridge;
+  min-height: 400px;
+}
+
+.jumbotron {
+  padding: 70px 30px 70px 30px;
+  margin: 0px auto;
+  height: 25%;
+  background: #995252d6;
+  color: rgb(255, 240, 240);
+}
+.address {
+  font-size: 80%;
+  margin: 0px;
+  color: #0f0f0f;
+}
+
+body {
+  padding: 50px 0px 0px 0px;
+  z-index: 0;
+  background-color: #040d1d;
+}
+.navbar-dark {
+  background-color: #106142;
+}
+
+.tab-content {
+  border-left: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+}
+.navcont {
+  margin: 0;
+  padding: 0;
+}
+
+#Lobster {
+  font-family: "Cinzel", cursive;
+  font-size: large;
+}
+#Balsamiq {
+  font-family: "Balsamiq Sans", cursive;
+}
+.btn {
+  background-color: #995252d6;
+  margin-top: 70px;
+  padding-top: 50px;
+  /* height: 200px; */
+  /* Swidth: 500px; */
+  /* margin-left: 50px;
+  border-radius: 20px; */
+  color: #ddd;
+  border-color: none;
+}
+.btn:hover {
+  background-color: #f2e8cf;
+  color: #19041d;
+}
+#name {
+  font-family: "Castoro", serif;
+  font-weight: bolder;
+  text-shadow: 2px 2px 5px #1d0404;
+}
+.nav-item {
+  margin-left: 20px;
+}
+.image {
+  background-color: #99525bd6;
+}
+#ab {
+  color: #cfdbf2;
+}
+thead {
+  background-color: #d9cff2;
+}
+tr {
+  color: #611010;
+}
+
+td {
+  color: #cfdbf2;
+}
+.d {
+  margin-top: 10%;
+}
+#mar {
+  margin-top: 5%;
+}
+.res {
+  width: 100%;
+}
